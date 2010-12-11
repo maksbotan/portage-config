@@ -1,0 +1,54 @@
+dev-util/devhelp ~x86
+dev-java/icedtea ~x86
+dev-lang/ucblogo ~x86
+>=dev-lang/vala-0.7.10 ~x86
+dev-libs/yajl ~x86
+dev-python/xmpppy ~x86
+dev-python/py-notify ~x86
+dev-python/pygoocanvas ~x86
+
+dev-util/gaphor ~*
+net-zope/zope-component ~x86
+net-zope/zope-event ~x86
+net-zope/zope-proxy ~x86
+net-zope/zope-hookable ~x86
+net-zope/zope-schema ~x86
+net-zope/zope-configuration ~x86
+net-zope/zope-i18nmessageid ~x86
+net-zope/zope-security ~x86
+net-zope/zope-location ~x86
+net-zope/zope-exceptions ~x86
+net-zope/zope-fixers ~x86
+net-zope/zope-copy ~x86
+net-zope/zconfig ~x86
+net-zope/zc-lockfile ~x86
+net-zope/zdaemon ~x86
+net-zope/zodb ~x86
+net-zope/transaction ~x86
+dev-python/gaphas ~*
+dev-python/simplegeneric ~*
+dev-python/restrictedpython ~x86
+
+=dev-java/gcj-jdk-4.4.3* ~x86
+dev-java/ecj-gcj ~x86
+app-admin/eselect-ecj ~x86
+
+dev-util/netbeans ~x86
+
+dev-python/pyumlgraph ~x86
+dev-util/autodia ~x86
+
+dev-python/ply ~x86
+
+dev-util/cmake ~x86
+
+app-misc/lcpackgen **
+
+dev-python/python-xklavier ~x86
+
+dev-util/pida ~x86
+dev-python/pygtkhelpers ~x86
+dev-python/anyvc ~x86
+dev-python/kiwi ~x86
+dev-python/rope ~x86
+dev-python/apipkg ~x86

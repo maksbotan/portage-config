@@ -1,0 +1,1 @@
+>=dev-java/icedtea-6.1.8.1

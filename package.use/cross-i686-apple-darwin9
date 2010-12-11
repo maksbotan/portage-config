@@ -1,0 +1,3 @@
+cross-i686-apple-darwin9/binutils -selinux
+cross-i686-apple-darwin9/linux-headers -selinux
+cross-i686-apple-darwin9/gcc -selinux -boundschecking -d -fortran -gtk -gcj -libffi -mudflap -objc -objc++ -objc-gc -openmp nocxx

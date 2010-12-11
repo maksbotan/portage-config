@@ -1,0 +1,4 @@
+cross-i386-pc-mingw32/binutils -selinux
+cross-i386-pc-mingw32/w32api -selinux
+cross-i386-pc-mingw32/mingw-runtime -selinux
+cross-i386-pc-mingw32/gcc -selinux -boundschecking -d -fortran -gtk -gcj -libffi -mudflap -objc -objc++ -objc-gc -openmp nocxx

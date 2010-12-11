@@ -1,0 +1,48 @@
+media-gfx/sane-backends ~x86
+
+x11-wm/cairo-compmgr ~x86
+x11-wm/musca ~x86
+x11-wm/ion3 ~x86
+sys-apps/qingy ~x86
+
+x11-themes/gtk-engines-murrine ~x86
+
+x11-wm/wmname ~x86  
+
+>=x11-libs/qt-webkit-4.7.0 ~x86
+>=x11-libs/qt-dbus-4.7.0 ~x86
+>=x11-libs/qt-core-4.7.0 ~x86
+>=x11-libs/qt-gui-4.7.0 ~x86
+>=x11-libs/qt-xmlpatterns-4.7.0 ~x86
+>=x11-libs/qt-script-4.7.0 ~x86
+>=x11-libs/qt-qt3support-4.7.0 ~x86
+>=x11-libs/qt-sql-4.7.0 ~x86
+>=x11-libs/qt-opengl-4.7.0 ~x86
+>=x11-libs/qt-test-4.7.0 ~x86
+>=x11-libs/qt-phonon-4.7.0 ~x86
+>=x11-libs/qt-svg-4.7.0 ~x86
+>=x11-libs/qt-assistant-4.7.0 ~x86
+>=x11-libs/qt-declarative-4.7.0 ~x86
+>=x11-libs/qt-multimedia-4.7.0 ~x86
+
+x11-libs/libdrm **
+x11-base/xorg-server ~x86
+x11-base/xorg-drivers ~x86
+x11-apps/xinit ~x86
+x11-drivers/xf86-input-synaptics ~x86
+x11-drivers/xf86-video-intel **
+x11-libs/libdrm ~x86
+media-libs/mesa **
+app-admin/eselect-mesa ~x86
+x11-apps/mesa-progs **
+x11-libs/libX11 ~x86
+x11-proto/kbproto ~x86
+x11-libs/pixman ~x86
+
+=x11-wm/awesome-3.4.4 ~x86
+
+x11-themes/gtk-engines-equinox ~x86
+
+x11-base/wayland ~x86
+x11-libs/libxkbcommon ~x86
+x11-libs/cairo ~x86

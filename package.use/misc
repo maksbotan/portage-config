@@ -1,0 +1,29 @@
+sys-devel/gcc -gtk
+dev-tcltk/tclxml expat
+net-im/gajim trayicon
+net-print/hplip hpcups -libnotify fax scanner
+media-video/mplayer win32codecs
+app-office/openoffice templates
+media-video/ffmpeg threads
+app-portage/layman git subversion
+media-libs/portaudio jack
+sys-fs/udev extras
+media-sound/pulseaudio jack
+dev-vcs/git curl
+app-emulation/q4wine icoutils wineappdb winetricks
+sys-apps/qingy directfb
+net-print/cups -usb
+app-office/openoffice gnome
+net-dns/avahi mdnsresponder-compat
+gnome-base/gvfs fuse
+net-im/psi plugins
+media-sound/sonata taglib
+app-mobilephone/gnokii sms
+media-sound/mpd lastfmradio
+net-print/cups gnutls
+net-nds/openldap gnutls
+dev-lang/php gd
+app-emulation/fuse ao libsamplerate
+app-emulation/libspectrum audiofile
+app-emulation/fuse-utils audiofile
+x11-terms/evilvte savedconfig

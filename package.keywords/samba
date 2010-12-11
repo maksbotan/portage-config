@@ -1,0 +1,6 @@
+net-fs/samba ~x86
+net-fs/samba-server ~x86
+net-fs/samba-client ~x86
+net-fs/samba-libs ~x86
+sys-libs/tdb ~x86
+sys-libs/talloc ~x86

@@ -1,0 +1,9 @@
+net-im/psi **
+sys-devel/qconf ~x86
+net-im/psi-plugins-meta **
+net-im/psi-extendedoptions **
+net-im/psi-gmailnotify **
+net-im/psimedia **
+net-im/psi-juick **
+net-im/psi-captchaforms **
+net-im/psi-autoreply **

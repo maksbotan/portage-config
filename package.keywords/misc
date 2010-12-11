@@ -1,0 +1,54 @@
+net-misc/ntpclient ~x86
+sys-fs/dmg2img ~x86
+net-wireless/blueman ~x86
+media-video/ffmpeg ~x86
+media-libs/x264 ~x86
+games-fps/freedoom ~x86
+games-fps/doomsday-resources ~x86
+app-text/cuneiform ~x86
+sys-apps/lm_sensors ~x86
+x11-misc/fbpanel ~x86
+sys-apps/lm_sensors ~x86
+dev-util/depot_tools **
+=dev-vcs/git-1.6.6 ~x86
+app-emulation/playonlinux ~x86
+app-emulation/q4wine **
+app-text/cuneiform-qt ~x86
+x11-misc/pcmanfm ~x86
+x11-libs/libfm ~x86
+lxde-base/menu-cache ~x86
+media-sound/obmixer ~x86
+gnome-extra/gnome-paint ~x86
+
+sci-electronics/gspiceui ~x86
+sci-electronics/geda-gnetlist ~x86
+
+sci-libs/opencascade ~x86
+app-text/dgs ~x86
+
+sci-misc/pythoncad ~x86
+
+app-text/gtranslator ~x86
+#gnome-extra/libgda ~x86
+
+app-emulation/wine ~x86
+app-emulation/wineasio ~x86
+
+net-misc/gns3 ~x86
+app-emulation/dynamips ~x86
+
+sys-apps/man-db ~x86
+
+app-misc/bashstyle-ng ~x86
+
+app-emulation/fuse ~x86
+app-emulation/fuse-utils ~x86
+app-emulation/libspectrum ~x86
+
+dev-lang/pyturtle **
+
+app-misc/ompload ~x86
+
+app-emulation/qemu-kvm ~x86
+
+sys-apps/shadow ~x86

@@ -1,0 +1,4 @@
+net-misc/ubuntuone-client ~x86
+x11-libs/libubuntuone ~x86
+dev-python/ubuntuone-storage-protocol ~x86
+dev-python/configglue ~x86

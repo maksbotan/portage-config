@@ -1,0 +1,8 @@
+dev-python/pygtk doc
+dev-python/pygoocanvas doc examples
+x11-libs/goocanvas doc
+dev-python/ply examples
+dev-python/PyQt4 webkit -opengl
+dev-vcs/subversion java
+dev-python/PyQt4 assistant
+app-text/lodgeit vim

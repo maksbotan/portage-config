@@ -1,0 +1,12 @@
+x11-base/xorg-server kdrive
+media-libs/mesa gallium d3d gles
+x11-apps/mesa-progs direct3d
+
+#x11-libs/qt-qt3support kde
+#x11-libs/qt-webkit kde
+#app-misc/strigi qt4
+
+x11-terms/rxvt-unicode -vanilla
+x11-themes/gtk-engines-equinox themes
+
+media-libs/gd fontconfig

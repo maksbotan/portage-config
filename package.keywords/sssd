@@ -1,0 +1,7 @@
+sys-auth/sssd ~x86
+dev-libs/dhash ~x86
+dev-libs/collection ~x86
+dev-libs/ref_array ~x86
+dev-libs/path_utils ~x86
+dev-libs/ini_config ~x86
+dev-libs/ding-libs **

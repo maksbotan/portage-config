@@ -1,0 +1,2 @@
+>=sys-apps/baselayout-2.0.1 ~x86
+>=sys-apps/openrc-0.6.0-r1 ~x86

@@ -1,0 +1,5 @@
+media-libs/freetype kpathsea
+app-text/lcdf-typetools kpathsea
+app-text/texlive cyrillic
+app-text/lyx latex
+app-text/evince djvu dvi

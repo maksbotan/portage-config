@@ -1,0 +1,4 @@
+sys-block/parted device-mapper
+xfce-extra/xfce4-power-manager policykit
+x11-misc/pcmanfm -udev
+x11-libs/libfm -udev

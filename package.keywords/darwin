@@ -1,0 +1,6 @@
+sys-apps/darwin-miscutils ~*
+sys-devel/gcc-apple ~*
+sys-devel/binutils-apple ~*
+sys-fs/diskdev_cmds ~x86
+sys-darwin/darwin-headers **
+sys-darwin/bootstrap_cmds ~x86

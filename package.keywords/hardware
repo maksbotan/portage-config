@@ -1,0 +1,6 @@
+net-wireless/iwl5150-ucode ~x86
+app-laptop/batti ~x86
+app-laptop/batterymon ~x86
+
+sys-apps/uam ~*
+x11-misc/sw-notify-send ~*
