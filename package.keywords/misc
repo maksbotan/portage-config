@@ -51,4 +51,6 @@ app-misc/ompload ~x86
 
 app-emulation/qemu-kvm ~x86
 app-emulation/libvirt ~x86
+app-misc/hivex ~x86
+
 sys-apps/shadow ~x86
