@@ -9,4 +9,5 @@ x11-apps/mesa-progs direct3d
 x11-terms/rxvt-unicode -vanilla
 x11-themes/gtk-engines-equinox themes
 
-media-libs/gd fontconfig
+media-libs/gd fontconfig png jpeg
+app-text/poppler cairo

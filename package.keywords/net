@@ -21,3 +21,6 @@ dev-python/skype4py **
 
 net-im/vacuum **
 net-im/swift **
+
+dev-util/chromium-tools
+net-analyzer/netcat6 ~x86
