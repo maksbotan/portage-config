@@ -54,3 +54,6 @@ app-emulation/libvirt ~x86
 app-misc/hivex ~x86
 
 sys-apps/shadow ~x86
+
+dev-python/pyopenssl ~x86
+dev-libs/protobuf ~x86

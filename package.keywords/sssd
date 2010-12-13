@@ -5,3 +5,6 @@ dev-libs/ref_array ~x86
 dev-libs/path_utils ~x86
 dev-libs/ini_config ~x86
 dev-libs/ding-libs **
+
+sys-libs/ldb ~x86
+sys-libs/tevent ~x86

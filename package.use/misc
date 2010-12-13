@@ -12,6 +12,7 @@ media-sound/pulseaudio jack
 dev-vcs/git curl
 app-emulation/q4wine icoutils wineappdb winetricks
 sys-apps/qingy directfb
+dev-libs/DirectFB jpeg png
 net-print/cups -usb
 app-office/openoffice gnome
 net-dns/avahi mdnsresponder-compat
