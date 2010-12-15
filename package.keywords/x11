@@ -24,6 +24,7 @@ x11-wm/wmname ~x86
 >=x11-libs/qt-assistant-4.7.0 ~x86
 >=x11-libs/qt-declarative-4.7.0 ~x86
 >=x11-libs/qt-multimedia-4.7.0 ~x86
+x11-themes/qgtkstyle ~x86
 
 x11-libs/libdrm **
 x11-base/xorg-server ~x86
