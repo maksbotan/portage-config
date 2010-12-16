@@ -1,0 +1,12 @@
+app-office/libreoffice ~x86
+
+dev-libs/boost-headers ~x86
+dev-libs/boost ~x86
+dev-libs/boost-thread ~x86
+dev-libs/boost-python ~x86
+dev-libs/boost-program_options ~x86
+dev-util/boost-build ~x86
+
+dev-lang/python:2.7 ~x86
+
+dev-java/lucene
