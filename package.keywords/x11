@@ -38,6 +38,8 @@ app-admin/eselect-mesa ~x86
 x11-apps/mesa-progs **
 x11-libs/libX11 ~x86
 x11-proto/kbproto ~x86
+x11-proto/randrproto ~x86
+x11-proto/xextproto ~x86
 x11-libs/pixman ~x86
 
 =x11-wm/awesome-3.4.4 ~x86

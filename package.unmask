@@ -39,6 +39,9 @@ net-im/karaka
 >=x11-libs/qt-declarative-4.7.0
 >=x11-libs/qt-multimedia-4.7.0
 
+x11-proto/randrproto
+x11-proto/xextproto
+
 x11-base/wayland
 x11-libs/libxkbcommon
 x11-libs/cairo
