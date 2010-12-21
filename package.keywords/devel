@@ -40,7 +40,7 @@ dev-util/autodia ~x86
 
 dev-python/ply ~x86
 
-dev-util/cmake ~x86
+#dev-util/cmake ~x86
 
 app-misc/lcpackgen **
 

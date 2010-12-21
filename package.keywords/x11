@@ -44,8 +44,8 @@ x11-libs/pixman ~x86
 
 x11-themes/gtk-engines-equinox ~x86
 
-x11-base/wayland ~x86
-x11-libs/libxkbcommon ~x86
-x11-libs/cairo ~x86
+#x11-base/wayland ~x86
+#x11-libs/libxkbcommon ~x86
+#x11-libs/cairo ~x86
 
 dev-libs/glib ~x86
