@@ -10,8 +10,10 @@ net-libs/wvstreams ~x86
 net-misc/pyneighborhood **
 net-libs/rb_libtorrent ~x86
 
-#www-client/firefox ~x86
-#net-libs/xulrunner ~x86
+www-client/firefox ~x86
+net-libs/xulrunner ~x86
+media-libs/libpng ~x86
+x11-libs/cairo ~x86
 
 net-im/mcabber ~x86
 

@@ -44,6 +44,5 @@ x11-proto/xextproto
 
 x11-base/wayland
 x11-libs/libxkbcommon
-x11-libs/cairo
 
 dev-util/chromium-tools
