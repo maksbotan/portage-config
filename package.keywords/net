@@ -26,3 +26,5 @@ net-im/swift **
 
 dev-util/chromium-tools
 net-analyzer/netcat6 ~x86
+
+net-misc/wget ~x86

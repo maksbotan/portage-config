@@ -31,6 +31,7 @@ x11-base/xorg-server ~x86
 x11-base/xorg-drivers ~x86
 x11-apps/xinit ~x86
 x11-drivers/xf86-input-synaptics ~x86
+x11-drivers/xf86-input-evdev ~x86
 x11-drivers/xf86-video-intel **
 x11-libs/libdrm ~x86
 media-libs/mesa **
