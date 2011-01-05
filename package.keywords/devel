@@ -52,3 +52,5 @@ dev-python/anyvc ~x86
 dev-python/kiwi ~x86
 dev-python/rope ~x86
 dev-python/apipkg ~x86
+
+dev-util/d-feet ~x86
