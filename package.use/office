@@ -1,5 +1,5 @@
 app-office/libreoffice java
 
-dev-libs/boost program_options thread
+dev-libs/boost program_options thread singals
 dev-db/sqlite extensions
 dev-java/lucene analyzers
