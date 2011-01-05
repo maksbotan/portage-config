@@ -9,6 +9,7 @@ dev-libs/boost-signals ~x86
 dev-libs/boost-filesystem ~x86
 dev-libs/boost-system ~x86
 dev-libs/boost-regex ~x86
+dev-libs/boost-iostreams ~x86
 dev-util/boost-build ~x86
 
 dev-lang/python:2.7 ~x86
