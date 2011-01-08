@@ -5,7 +5,7 @@ x11-wm/musca ~x86
 x11-wm/ion3 ~x86
 sys-apps/qingy ~x86
 
-x11-themes/gtk-engines-murrine ~x86
+x11-themes/gtk-engines-murrine **
 
 x11-wm/wmname ~x86  
 
