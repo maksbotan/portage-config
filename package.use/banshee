@@ -1,2 +1,2 @@
-gnome-base/gvfs gnome
-net-libs/libsoup gnome
+media-sound/banshee ipod udev
+media-libs/libgpod mono
