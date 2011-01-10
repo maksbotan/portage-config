@@ -1,0 +1,5 @@
+media-sound/banshee ~x86
+dev-dotnet/gtk-sharp-beans ~x86
+dev-dotnet/gio-sharp ~x86
+dev-dotnet/gkeyfile-sharp ~x86
+dev-dotnet/gudev-sharp ~x86
