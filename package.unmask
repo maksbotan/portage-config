@@ -46,3 +46,6 @@ x11-base/wayland
 x11-libs/libxkbcommon
 
 dev-util/chromium-tools
+
+app-emulation/spice
+app-emulation/spice-protocol

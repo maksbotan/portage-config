@@ -59,3 +59,5 @@ sys-apps/shadow ~x86
 
 dev-python/pyopenssl ~x86
 dev-libs/protobuf ~x86
+
+x11-apps/ardesia ~x86

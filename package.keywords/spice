@@ -1,0 +1,3 @@
+app-emulation/spice ~*
+app-emulation/spice-protocol ~*
+media-libs/celt ~x86
