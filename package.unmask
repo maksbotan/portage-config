@@ -49,3 +49,6 @@ dev-util/chromium-tools
 
 app-emulation/spice
 app-emulation/spice-protocol
+
+dev-libs/boost:1.45
+dev-lang/v8

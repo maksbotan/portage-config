@@ -31,3 +31,5 @@ x11-terms/evilvte savedconfig
 net-dns/avahi dbus
 sys-auth/pambase consolekit
 net-wireless/blueman network
+dev-libs/libxml2 icu
+dev-libs/libgcrypt static-libs

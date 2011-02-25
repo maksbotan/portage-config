@@ -61,3 +61,7 @@ dev-python/pyopenssl ~x86
 dev-libs/protobuf ~x86
 
 x11-apps/ardesia ~x86
+
+dev-libs/qjson ~x86
+
+dev-lang/v8 ~x86

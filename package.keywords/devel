@@ -56,3 +56,4 @@ dev-python/apipkg ~x86
 dev-util/d-feet ~x86
 
 dev-python/flask ~x86
+dev-python/blinker ~x86
