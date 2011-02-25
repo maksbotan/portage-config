@@ -30,3 +30,4 @@ app-emulation/fuse-utils audiofile
 x11-terms/evilvte savedconfig
 net-dns/avahi dbus
 sys-auth/pambase consolekit
+net-wireless/blueman network

@@ -6,3 +6,7 @@ dev-python/PyQt4 webkit -opengl
 dev-vcs/subversion java
 dev-python/PyQt4 assistant
 app-text/lodgeit vim
+dev-vcs/git subversion
+dev-vcs/subversion -dso
+
+dev-python/epydoc -X

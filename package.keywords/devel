@@ -54,3 +54,5 @@ dev-python/rope ~x86
 dev-python/apipkg ~x86
 
 dev-util/d-feet ~x86
+
+dev-python/flask ~x86
