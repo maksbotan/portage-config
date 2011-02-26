@@ -1,4 +1,4 @@
-=app-office/libreoffice-3.3.0.1 ~x86
+app-office/libreoffice ~x86
 
 dev-libs/boost-headers ~x86
 dev-libs/boost ~x86
