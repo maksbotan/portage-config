@@ -68,3 +68,4 @@ dev-lang/v8 ~x86
 
 dev-python/execnet ~x86
 dev-python/oauth ~x86
+dev-python/posix_ipc ~x86
