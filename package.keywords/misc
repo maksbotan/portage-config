@@ -65,3 +65,5 @@ x11-apps/ardesia ~x86
 dev-libs/qjson ~x86
 
 dev-lang/v8 ~x86
+
+dev-python/execnet ~x86
