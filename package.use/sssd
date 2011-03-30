@@ -1,1 +1,2 @@
 sys-libs/talloc compat
+net-fs/samba ldb

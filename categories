@@ -2,3 +2,4 @@ g-ctan
 sys-darwin
 cross-i386-pc-mingw32
 cross-i686-apple-darwin9
+perl-gcpan

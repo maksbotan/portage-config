@@ -1,6 +1,7 @@
 sys-apps/jackd-init ~x86
 media-libs/libvpx ~x86
 media-plugins/gst-plugins-jack **
+media-libs/gst-plugins-base ~x86
 media-sound/audacity ~x86
 media-sound/lame ~x86
 

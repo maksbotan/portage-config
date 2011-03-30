@@ -10,3 +10,4 @@ dev-vcs/git subversion
 dev-vcs/subversion -dso
 
 dev-python/epydoc -X
+app-text/wv tools

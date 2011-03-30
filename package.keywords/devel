@@ -57,3 +57,4 @@ dev-util/d-feet ~x86
 
 dev-python/flask ~x86
 dev-python/blinker ~x86
+www-servers/uwsgi ~x86

@@ -1,6 +1,7 @@
 media-sound/jack-audio-connection-kit 32bit
 app-emulation/wine jack gsm
 media-video/ffmpeg vpx
+media-video/vlc qt4 vaapi
 media-plugins/gst-plugins-meta -alsa
 x11-libs/qt-qt3support phonon
 media-sound/qjackctl jackmidi

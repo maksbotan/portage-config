@@ -53,3 +53,5 @@ app-emulation/spice-protocol
 dev-libs/boost:1.45
 dev-util/boost-build:1.45
 dev-lang/v8
+
+www-plugins/moonlight

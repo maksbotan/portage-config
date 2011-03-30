@@ -1,2 +1,3 @@
 =sys-boot/grub-1* **
 sys-boot/os-prober ~x86
+media-fonts/unifont ~x86
