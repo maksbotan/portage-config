@@ -36,7 +36,6 @@ app-text/gtranslator ~x86
 
 app-emulation/wine ~x86
 app-emulation/wineasio ~x86
-media-libs/gstreamer ~x86
 
 net-misc/gns3 ~x86
 app-emulation/dynamips ~x86

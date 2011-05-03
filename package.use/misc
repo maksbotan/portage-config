@@ -33,3 +33,4 @@ sys-auth/pambase consolekit
 net-wireless/blueman network
 dev-libs/libxml2 icu
 dev-libs/libgcrypt static-libs
+sys-auth/pambase pam_ssh

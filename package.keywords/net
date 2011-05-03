@@ -1,6 +1,7 @@
 dev-libs/nss ~x86
 dev-libs/nspr ~x86
 www-client/chromium ~x86
+media-libs/libwebp ~x86
 www-plugins/mozplugger ~x86
 www-client/midori ~x86 
 #net-libs/webkit-gtk ~x86
@@ -27,6 +28,9 @@ net-im/swift **
 dev-util/chromium-tools
 net-analyzer/netcat6 ~x86
 
+net-misc/gogoc ~x86
+
 net-misc/wget ~x86
 
 net-misc/wicd ~x86
+net-im/skype ~x86
