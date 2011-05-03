@@ -13,6 +13,4 @@ dev-libs/boost-iostreams ~x86
 dev-libs/boost-date_time ~x86
 dev-util/boost-build ~x86
 
-dev-lang/python:2.7 ~x86
-
 dev-java/lucene
