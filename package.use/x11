@@ -1,5 +1,5 @@
 x11-base/xorg-server kdrive
-media-libs/mesa gallium d3d gles
+media-libs/mesa gallium gles
 x11-apps/mesa-progs direct3d
 
 #x11-libs/qt-qt3support kde
