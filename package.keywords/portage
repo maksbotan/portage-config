@@ -1,3 +1,4 @@
 app-portage/overlay-utils ~x86
 app-portage/smart-live-rebuild ~x86
+app-portage/gentoopm ~x86
 sys-apps/portage ~x86

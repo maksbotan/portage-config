@@ -1,7 +1,7 @@
 sys-devel/gcc -gtk
 dev-tcltk/tclxml expat
 net-im/gajim trayicon
-net-print/hplip hpcups -libnotify fax scanner minimal snmp
+net-print/hplip hpcups -libnotify fax scanner snmp qt4
 media-video/mplayer win32codecs
 app-office/openoffice templates
 media-video/ffmpeg threads

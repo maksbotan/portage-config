@@ -3,4 +3,6 @@
 =sys-kernel/tuxonice-sources-2.6.34* ~x86
 =sys-kernel/tuxonice-sources-2.6.35* ~x86
 =sys-kernel/tuxonice-sources-2.6.36* ~x86
+=sys-kernel/tuxonice-sources-2.6.37* ~x86
+=sys-kernel/tuxonice-sources-2.6.38* ~x86
 sys-fs/aufs2 ~x86

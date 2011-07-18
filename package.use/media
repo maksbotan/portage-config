@@ -6,3 +6,4 @@ media-video/vlc qt4 vaapi
 media-plugins/gst-plugins-meta -alsa
 x11-libs/qt-qt3support phonon
 media-sound/qjackctl jackmidi
+media-sound/sonata lyrics

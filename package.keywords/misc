@@ -41,6 +41,7 @@ net-misc/gns3 ~x86
 app-emulation/dynamips ~x86
 
 sys-apps/man-db ~x86
+dev-libs/libpipeline ~x86
 
 app-misc/bashstyle-ng ~x86
 
@@ -72,3 +73,6 @@ dev-python/oauth ~x86
 dev-python/posix_ipc ~x86
 
 www-plugins/moonlight
+media-gfx/simple-scan
+
+net-libs/libproxy ~x86
