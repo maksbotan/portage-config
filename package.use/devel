@@ -11,3 +11,5 @@ dev-vcs/subversion -dso
 
 dev-python/epydoc -X
 app-text/wv tools
+
+dev-util/anjuta graphviz devhelp glade
