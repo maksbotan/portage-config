@@ -13,3 +13,14 @@ dev-python/epydoc -X
 app-text/wv tools
 
 dev-util/anjuta graphviz devhelp glade
+
+dev-python/anyvc git mercurial
+
+#required by dev-util/qt-creator-2.1.0[qml], required by qt-creator (argument)
+=x11-libs/qt-gui-4.7.3 private-headers
+#required by dev-util/qt-creator-2.1.0[qml], required by qt-creator (argument)
+=x11-libs/qt-declarative-4.7.3 private-headers
+#required by dev-util/qt-creator-2.1.0[qml], required by qt-creator (argument)
+=x11-libs/qt-core-4.7.3 private-headers
+#required by dev-util/qt-creator-2.1.0[qml], required by qt-creator (argument)
+=x11-libs/qt-script-4.7.3 private-headers

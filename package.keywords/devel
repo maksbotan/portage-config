@@ -58,3 +58,11 @@ dev-util/d-feet ~x86
 dev-python/flask ~x86
 dev-python/blinker ~x86
 www-servers/uwsgi ~x86
+
+app-vim/c-support ~x86
+dev-python/setuptools ~x86
+
+>=dev-python/docutils-0.8 ~x86
+>=dev-python/markupsafe-0.15 ~x86
+>=dev-python/imaging-1.1.7-r1 ~x86
+
